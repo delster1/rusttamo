@@ -1,1 +1,0 @@
-/mnt/c/Users/delst/Documents/master/d3/code/rustlab/rusttamo/target/debug/rusttamo: /mnt/c/Users/delst/Documents/master/d3/code/rustlab/rusttamo/src/main.rs /mnt/c/Users/delst/Documents/master/d3/code/rustlab/rusttamo/src/tamo.rs

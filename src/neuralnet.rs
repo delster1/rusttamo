@@ -7,7 +7,9 @@ struct NeuralNet {
 }
 
 impl NeuralNet {
-	
+    fn build() -> NeuralNet {
+        
+    }
 }
 
 fn main() {

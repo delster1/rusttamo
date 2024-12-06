@@ -85,7 +85,7 @@ fn main() -> std::io::Result<()> {
                 break;
             }
             tamo.save_tamo().unwrap();
-            println!("time passed for {}", tamo);
+            println!("time passed AUTOMATICALLY for {}", tamo);
 
         }
     });
